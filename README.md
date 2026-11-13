@@ -285,7 +285,7 @@ MIT License — Free to use, modify, and distribute with attribution.
 
 <div align="center">
 
-### Your Name Here
+Pransu Patel
 
 [![GitHub](https://img.shields.io/badge/GitHub-pransu1719-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pransu1719)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
